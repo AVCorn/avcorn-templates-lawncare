@@ -1,2 +1,2 @@
-# templates-lawncare
-Lawncare AVCorn Template
+# AVCorn Lawncare Template
+AVCorn Lawncare Template

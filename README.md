@@ -6,5 +6,6 @@ A template for landscape or lawncare clients.
 
 ![AVCorn Logo](https://raw.githubusercontent.com/AVCorn/avcorn/main/docs/images/avcorn-logo.png "The nut doesn't fall from from the tree!")
 
-[Back to AVCorn Templates](https://github.com/AVCorn/avcorn-templates)
-[Back to AVCorn Project](https://github.com/AVCorn/avcorn)
+[<< Back to AVCorn Project](https://github.com/AVCorn/avcorn)
+
+[< Back to AVCorn Templates](https://github.com/AVCorn/avcorn-templates)

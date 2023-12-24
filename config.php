@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 /**
  * Lawncare Template Configuration
  *
@@ -10,6 +8,11 @@ declare(strict_types=1);
  * @subpackage  Configuration
  */
 
+declare(strict_types=1);
+
+/**
+ * @var array $config Configuration
+ */
 $config['info']['company'] = "Nutty's Lawnscape";
 $config['info']['title'] = "Nutty's Lawnscape";
 $config['info']['motto'] = 'Mowing down the competition!';

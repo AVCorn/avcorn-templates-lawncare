@@ -3,9 +3,15 @@
 /**
  * Lawncare Template Configuration
  *
+ * PHP version 8.1
+ *
  * @phpversion >= 8.1
- * @package     Application
- * @subpackage  Configuration
+ * @category   CMS
+ * @package    AVCorn
+ * @subpackage Template
+ * @author     Benjamin J. Young <ben@blaher.me>
+ * @license    GNU General Public License, version 3
+ * @link       https://github.com/avcorn/avcorn
  */
 
 declare(strict_types=1);

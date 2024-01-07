@@ -221,5 +221,8 @@
         </div>
 
         {% include template_path~"/components/footer.html" %}
+        
+        {% include "components/foot.html" %}
+        {% block loaded %}{% endblock %}
     </body>
 </html>
